@@ -1,6 +1,6 @@
 ## Olá,Mundo! Eu sou o Renan Salgadinho 🖖   
 
-## Sobre Mim 
+### Sobre Mim: 
 - Apaixonado por Front-End e UI Designer.
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 - Procuro colaborar na criação e desenvolvimento de projetos para ampliar meu conhecimento e experiência.
@@ -24,7 +24,7 @@
 </div>
 
 
-## 📦 Conhecimento
+### 📦 Conhecimento
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Eu não tenho medo de computadores, tenho medo da falta deles. 
