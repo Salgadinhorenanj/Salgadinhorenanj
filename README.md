@@ -10,9 +10,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salgadinhorenanjr/)
 
-### Chat do Discord:
-[![Discord Chat](https://img.shields.io/discord/1186333168777822231.svg)](https://discord.gg/)
-
 ### 📈 Estatísticas Gerais
 
 ![Salgadinho GitHub stats](https://github-readme-stats.vercel.app/api?username=Salgadinhorenanj&show_icons=true&theme=tokyonight)
