@@ -1,15 +1,16 @@
 ## Olá,Mundo! Eu sou o Renan Salgadinho 🖖   
 
-### Sobre Mim: 
-- Apaixonado por Front-End e UI Designer.
+### 📌 Sobre Mim: 
+- 👨‍💻 Apaixonado por Front-End e UI Designer.
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
-- Procuro colaborar na criação e desenvolvimento de projetos para ampliar meu conhecimento e experiência.
+- ✔️ Procuro colaborar na criação e desenvolvimento de projetos para ampliar meu conhecimento e experiência.
 
-### Midia Social:
+### 💬 Midia Social:
 <a href="mailto:salgadinhorenanj@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/> 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salgadinhorenanjr/)
 
+ 📍 /**Venha conferir o servidor Gauchodev no Discord**/
 [![Discord Chat](https://img.shields.io/discord/1207335363907944488.svg)](https://discord.gg/CJ3MfVR7) 
 
 
@@ -30,6 +31,6 @@
 ### 📦 Conhecimento
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
-### Eu não tenho medo de computadores, tenho medo da falta deles. 
-Isaac Asimov
- 
+
+
+Bem-vindos ao amanhã, hoje! 🚀💻 
