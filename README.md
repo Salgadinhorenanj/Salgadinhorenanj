@@ -1,10 +1,10 @@
 ## Olá,Mundo! Eu sou o Renan Salgadinho 🖖   
 
 ### 📌 Sobre Mim: 
-👨‍💻 Apaixonado por Front-End e UI Designer.
-🎓 Graduado em Análise e Desenvolvimento de Sistemas.
-- ⏳ Pós-Graduação em Engenharia de Software - 
-✔️ Procuro colaborar na criação e desenvolvimento de projetos para ampliar meu conhecimento e experiência.
+- 👨‍💻 Apaixonado por Front-End e UI Designer.
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
+--- ⏳ Pós-Graduação em Engenharia de Software --- 
+- ✔️ Procuro colaborar na criação e desenvolvimento de projetos para ampliar meu conhecimento e experiência.
 
 ### 💬 Midia Social:
 <a href="mailto:salgadinhorenanj@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/> 
