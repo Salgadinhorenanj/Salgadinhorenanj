@@ -1,9 +1,8 @@
 ## Olá,Mundo! Eu sou o Renan Salgadinho 🖖   
 
 ### 📌 Sobre Mim: 
-- 👨‍💻 Apaixonado por Front-End e UI Designer.
+-- ⏳ Pós-Graduação em Engenharia de Software--
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
---- ⏳ Pós-Graduação em Engenharia de Software --- 
 - ✔️ Procuro colaborar na criação e desenvolvimento de projetos para ampliar meu conhecimento e experiência.
 
 ### 💬 Midia Social:
