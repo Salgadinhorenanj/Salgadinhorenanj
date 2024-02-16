@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salgadinhorenanjr/)
 
  📍 --Venha conferir o servidor Gauchodev no Discord<br><br>
-[![Discord Chat](https://img.shields.io/discord/1207335363907944488.svg)](https://discord.gg/CJ3MfVR7) 
+[![Discord Chat](https://img.shields.io/discord/1207335363907944488.svg)](https://discord.gg/Zq7Ayb6h) 
 
 
 ### 📈 Estatísticas Gerais:
